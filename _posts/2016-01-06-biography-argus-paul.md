@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A Short Biography on the photographer and artisit, Argus Paul'
-datePublished: '2016-01-06T04:24:55.829Z'
-dateModified: '2016-01-06T04:23:46.387Z'
+datePublished: '2016-01-06T04:33:15.555Z'
+dateModified: '2016-01-06T04:32:24.983Z'
 title: 'Biography: Argus Paul'
 author: []
+sourcePath: _posts/2016-01-06-biography-argus-paul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-biography-argus-paul.md
-published: true
 url: biography-argus-paul/index.html
 _type: Article
 
@@ -46,4 +46,4 @@ enjoy creating poetry and have been published in such literary magazines as,
 Synecdoche Magazine, Driftwood Press, and The Ironic Fantastic.
 
 More of my work can be seen at: www.arguspaul.com
-![Image of Argus Paul](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba7a44ae3aa5e772859b7b3a6235329fcba4e0b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a11e3f6-5573-4e47-bb4e-a904198b2062.jpg)
