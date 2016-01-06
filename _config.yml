@@ -1,7 +1,7 @@
 name: 'Argus Paul '
 favicon: null
-layout_spectrum: 0.5905875097960234
-typography_spectrum: 0.8199309450574219
+layout_spectrum: 0.50183
+typography_spectrum: 0.88757
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#0a0a0a'
+    - '#404040'
+    - '#fbfbfb'
+    - '#a0a0a0'
+    - '#7c7c7c'
   brandStrength: 0.4855645408388227
   lightness: 0.6824273990932852
   saturation: 0.9745348449796438
