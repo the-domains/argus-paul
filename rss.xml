@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Argus Paul ]]></title>
         <description><![CDATA[Argus Paul ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/argus-paul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 04:24:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 04:33:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/argus-paul/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biography: Argus Paul]]></title>
-            <description><![CDATA[<article><h1>Biography: Argus Paul</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2247ec52277742d6050c5268c1e6e9d74979bcc1.jpg"></article>]]></description>
-            <link>undefinedbiography-argus-paul/index.html</link>
+            <description><![CDATA[<article><h1>Biography: Argus Paul</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a11e3f6-5573-4e47-bb4e-a904198b2062.jpg"></article>]]></description>
+            <link>https://thegrid.ai/argus-paul/biography-argus-paul/index.html</link>
             <guid isPermaLink="false">e14f9468-0a20-4535-8121-e263ec2e0686</guid>
-            <pubDate>Wed, 06 Jan 2016 04:24:55 GMT</pubDate>
+            <pubDate>Wed, 06 Jan 2016 04:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
